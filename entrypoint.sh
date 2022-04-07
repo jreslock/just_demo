@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-set -Eeuox pipefail
+set -Eeuo pipefail
 
 echo 'Hey look!  I just ran in a container!  Now do something useful...'
